@@ -6,3 +6,6 @@ This file contains the python code which creates the UI for the MQTT communicati
 
 ## TargetmoduleV1
 This file contains the code of the target module.
+
+## R4MQTTCAN
+Contains code for master module that runs state machine and manages transfer.
